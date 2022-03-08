@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/command-center-dash/static/css/main.e6c13ad2.css",
-    "main.js": "/command-center-dash/static/js/main.beb33865.js",
+    "main.js": "/command-center-dash/static/js/main.dae2794e.js",
     "index.html": "/command-center-dash/index.html",
     "main.e6c13ad2.css.map": "/command-center-dash/static/css/main.e6c13ad2.css.map",
-    "main.beb33865.js.map": "/command-center-dash/static/js/main.beb33865.js.map"
+    "main.dae2794e.js.map": "/command-center-dash/static/js/main.dae2794e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.beb33865.js"
+    "static/js/main.dae2794e.js"
   ]
 }
